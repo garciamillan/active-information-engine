@@ -22,7 +22,7 @@ If you use this software or data, please cite it as:
   title={Optimal closed-loop control of active particles and a minimal information engine},
   author={Garcia-Millan, Rosalba and Sch{\"u}ttler, Janik and Cates, Michael E and Loos, Sarah AM},
   eprint={arXiv:2407.18542},
-  url={https://arxiv.org/pdf/2407.18542},
+  url={ https://arxiv.org/pdf/2407.18542 },
   year={2024}
 }
 
@@ -30,6 +30,6 @@ If you use this software or data, please cite it as:
   title={Active particles in moving traps: minimum work protocols and information efficiency of work extraction},
   author={Sch{\"u}ttler, Janik and Garcia-Millan, Rosalba and Cates, Michael E and Loos, Sarah AM},
   eprint={arXiv:2501.18613},
-  url={https://arxiv.org/pdf/2501.18613},
+  url={ https://arxiv.org/pdf/2501.18613 },
   year={2025}
 }
