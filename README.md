@@ -29,42 +29,24 @@ GSL_RNG_SEED=$RANDOM ./eng
 If you use this software or data, please cite it as:
 
 @article{Garcia-MillanSchuettlerETAL:2025,
-
   title={Optimal closed-loop control of active particles and a minimal information engine},
-  
   author={Garcia-Millan, Rosalba and Sch{\"u}ttler, Janik and Cates, Michael E and Loos, Sarah AM},
-  
   journal={Phys. Rev. Lett.},
-  
   volume={135},
-  
   number={8},
-  
   pages={088301},
-  
   year={2025},
-  
   publisher={APS}
-
 }
 
 
 @article{SchuettlerETAL:2025,
-
   title={Active particles in moving traps: Minimum work protocols and information efficiency of work extraction},
-  
   author={Sch{\"u}ttler, Janik and Garcia-Millan, Rosalba and Cates, Michael E and Loos, Sarah AM},
-  
   journal={Phys. Rev. E},
-  
   volume={112},
-  
   number={2},
-  
   pages={024119},
-  
   year={2025},
-  
   publisher={APS}
-
 }
